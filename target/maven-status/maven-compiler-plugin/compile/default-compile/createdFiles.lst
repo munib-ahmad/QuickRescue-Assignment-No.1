@@ -1,0 +1,11 @@
+com\qr\dao\impl\ContactDaoImpl.class
+com\qr\model\DO\Profile.class
+com\qr\crud\main\AppMain.class
+com\qr\dao\impl\ProfileDaoImpl.class
+com\qr\dao\AccountDao.class
+com\qr\dao\ProfileDao.class
+com\qr\model\DO\Account.class
+com\qr\hibernate\sessionFactory\SessionFactory.class
+com\qr\dao\ContactDao.class
+com\qr\dao\impl\AccountDaoImpl.class
+com\qr\model\DO\Contact.class
